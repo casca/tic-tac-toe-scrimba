@@ -1,4 +1,10 @@
-# cV8eB8fp
+# tic-tac-toe-scrimba
+
+Code-alongs from [Scrimba "Tic-Tac-Toe with React Hooks" project](https://scrimba.com/g/greactgame).
+
+https://tic-tac-toe-scrimba.casca.vercel.app/
+
+---
 
 Quick start:
 
